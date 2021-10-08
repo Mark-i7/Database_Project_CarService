@@ -1,0 +1,7 @@
+Projektem célja egy autószerelő műhely mindennapjainak a feltérképezése volt. 
+Kezdve attól hogy , hogyan működnek az alkatrész vásárlások és eladások, 
+kiszámolja a műhely bevételét 2 időpont között. Ezenfelül a kliens beprogramálására is készítettünk tárolt eljárást,
+így egy lépest tettünk hogy automatizáljuk ezt a lehetőséget a műhelybe.
+A munkásoknak a nagy "örömére" az egyik tárolt eljárásból a főnök azt is megtudhatja,
+hogy melyik munkás munkája nem készült el időben, így lehetősége van rászólni és megdorgálni a munkást.
+Tárolt eljárásaink megkönnyítik a hűséges klienseink életet hisz egy kis kedvezménnyel kedveskedtem nekik.
